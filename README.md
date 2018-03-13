@@ -1,0 +1,1 @@
+Nothing to see here, just a little playground to experiment with CompletableFuture.
